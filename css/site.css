@@ -81,10 +81,4 @@ h4.border.border.border-bottom {
         object-fit: cover;
         width: 40%; 
     }
-    .col {
-        margin: 1%;
-    }
-    .row {
-        margin: 1%;
-    }
 }
