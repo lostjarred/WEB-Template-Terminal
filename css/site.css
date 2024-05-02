@@ -50,6 +50,11 @@ a.button:hover, a.button:active{
     border-left: 0px; 
     border-right: 0px;
 }
+.border.border-right { 
+    border-top: 0px;
+    border-left: 0px;
+    border-bottom: 0px;
+}
 img.pixelimg {
     image-rendering: pixelated;
 }
