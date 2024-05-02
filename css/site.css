@@ -28,12 +28,10 @@ a.button:hover, a.button:active{
 .col {
     display: flex;
     flex-direction: column;
-    margin: 2px;
 }
 .row {
     display: flex;
     flex-direction: row;
-    margin: 2px;
 }
 .center {
     justify-content: center;
