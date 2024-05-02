@@ -55,7 +55,7 @@ a.button:hover, a.button:active{
     border-left: 0px;
     border-bottom: 0px;
 }
-img.pixelimg {
+img.pixel {
     image-rendering: pixelated;
 }
 img.img-box {
