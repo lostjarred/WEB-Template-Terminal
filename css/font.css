@@ -2,9 +2,6 @@
     font-family: UnnamedDOSFontIV;
     src: url("../font/UnnamedDOSFontIV.ttf") format("truetype");
 }
-h1, h2, h3, h4, p, li {
-    font-family: UnnamedDOSFontIV;
-}
-a {
+h1, h2, h3, h4, p, li, a {
     font-family: UnnamedDOSFontIV;
 }
