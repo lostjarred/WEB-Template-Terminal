@@ -76,6 +76,16 @@ ul.menu {
 h4.border.border.border-bottom {
     border-bottom: 1px solid;
 }
+div.code {
+    border: 3px black solid;
+    margin: 1%;
+    background-color: #000000;
+}
+pre.code {
+    width: 100%; 
+    white-space: pre-wrap;
+    color: #FFFFFF;
+}
 @media screen and (min-width: 900px) {
     #main {
         margin-left: 10%; 
