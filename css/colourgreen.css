@@ -6,9 +6,11 @@ body {
 }
 h1, h2, h3, h4, p, a {
      color: #00FF33;
+     text-shadow: 0 0 10px #00FF33;
 }
 a:hover,  a:active{
     color: #00FF33;
+    text-shadow: 0 0 10px #00FF33;
 }
 a.button {
     background-color: #00FF33;
