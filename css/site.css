@@ -1,6 +1,11 @@
 a {
     text-decoration: none;
 }
+body {
+    background: linear-gradient(to top, #000000, #000000, #333333, #333333);
+    background-size: cover;
+    background-size: 100% 4px;
+}
 a.link:hover::before, a.link:active::before{
     content: ">  ";
 }
