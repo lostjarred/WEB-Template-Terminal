@@ -1,9 +1,6 @@
 .border, img.img-box{
     border-color: #ff2100;
 }
-body {
-    background-color: #282828;
-}
 h1, h2, h3, h4, p, a {
      color: #ff2100;
      text-shadow: 0 0 10px #ff2100;
